@@ -31,7 +31,7 @@ public class CreateResponseHandler : IRequestHandler<CreateResponseCommand, Unit
         if (!ticketExists)
             throw new ApplicationException("El ticket especificado no existe.");
 
-        var response = new Response
+        var response = new Lab11BarredaPintoZoriel.Infrastructure.Models.Response
         {
             ResponseId = Guid.NewGuid(),
             TicketId = dto.TicketId,    

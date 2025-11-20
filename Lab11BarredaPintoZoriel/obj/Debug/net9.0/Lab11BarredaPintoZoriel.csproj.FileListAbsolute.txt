@@ -60,3 +60,5 @@ C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel\
 C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel\obj\Debug\net9.0\Lab11BarredaPintoZoriel.pdb
 C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel\obj\Debug\net9.0\Lab11BarredaPintoZoriel.genruntimeconfig.cache
 C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel\obj\Debug\net9.0\ref\Lab11BarredaPintoZoriel.dll
+C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel\obj\Debug\net9.0\Lab11BarredaPintoZoriel.sourcelink.json
