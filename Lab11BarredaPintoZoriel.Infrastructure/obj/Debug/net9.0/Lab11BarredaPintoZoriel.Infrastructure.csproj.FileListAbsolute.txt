@@ -1,0 +1,17 @@
+C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel.Infrastructure\bin\Debug\net9.0\Lab11BarredaPintoZoriel.Infrastructure.deps.json
+C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel.Infrastructure\bin\Debug\net9.0\Lab11BarredaPintoZoriel.Infrastructure.runtimeconfig.json
+C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel.Infrastructure\bin\Debug\net9.0\Lab11BarredaPintoZoriel.Infrastructure.dll
+C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel.Infrastructure\bin\Debug\net9.0\Lab11BarredaPintoZoriel.Infrastructure.pdb
+C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel.Infrastructure\bin\Debug\net9.0\Lab11BarredaPintoZoriel.Domain.dll
+C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel.Infrastructure\bin\Debug\net9.0\Lab11BarredaPintoZoriel.Domain.pdb
+C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel.Infrastructure\obj\Debug\net9.0\Lab11BarredaPintoZoriel.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel.Infrastructure\obj\Debug\net9.0\Lab11BarredaPintoZoriel.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel.Infrastructure\obj\Debug\net9.0\Lab11BarredaPintoZoriel.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel.Infrastructure\obj\Debug\net9.0\Lab11BarredaPintoZoriel.Infrastructure.AssemblyInfo.cs
+C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel.Infrastructure\obj\Debug\net9.0\Lab11BarredaPintoZoriel.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel.Infrastructure\obj\Debug\net9.0\Lab11Bar.D219B6DC.Up2Date
+C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel.Infrastructure\obj\Debug\net9.0\Lab11BarredaPintoZoriel.Infrastructure.dll
+C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel.Infrastructure\obj\Debug\net9.0\refint\Lab11BarredaPintoZoriel.Infrastructure.dll
+C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel.Infrastructure\obj\Debug\net9.0\Lab11BarredaPintoZoriel.Infrastructure.pdb
+C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel.Infrastructure\obj\Debug\net9.0\Lab11BarredaPintoZoriel.Infrastructure.genruntimeconfig.cache
+C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel.Infrastructure\obj\Debug\net9.0\ref\Lab11BarredaPintoZoriel.Infrastructure.dll

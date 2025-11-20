@@ -1,0 +1,6 @@
+@Lab11BarredaPintoZoriel_HostAddress = http://localhost:5153
+
+GET {{Lab11BarredaPintoZoriel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
