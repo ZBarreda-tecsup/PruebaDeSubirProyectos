@@ -10,3 +10,4 @@ C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel.
 C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel.Domain\obj\Release\net9.0\refint\Lab11BarredaPintoZoriel.Domain.dll
 C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel.Domain\obj\Release\net9.0\Lab11BarredaPintoZoriel.Domain.pdb
 C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel.Domain\obj\Release\net9.0\ref\Lab11BarredaPintoZoriel.Domain.dll
+C:\Users\barre\OneDrive\Desktop\Lab11BarredaPintoZoriel\Lab11BarredaPintoZoriel.Domain\obj\Release\net9.0\Lab11BarredaPintoZoriel.Domain.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab11BarredaPintoZoriel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f297f516287888247c4053b422452ecb2e0e60bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab11BarredaPintoZoriel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab11BarredaPintoZoriel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

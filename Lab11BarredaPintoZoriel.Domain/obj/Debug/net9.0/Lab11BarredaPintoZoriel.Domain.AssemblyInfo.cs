@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab11BarredaPintoZoriel.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca7c8cfd9af1287e0f8c8e32f09398e389737ab8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f297f516287888247c4053b422452ecb2e0e60bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab11BarredaPintoZoriel.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab11BarredaPintoZoriel.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
