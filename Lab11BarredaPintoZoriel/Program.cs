@@ -5,26 +5,27 @@ using Lab11BarredaPintoZoriel.Infrastructure.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Services
 builder.Services.AddProjectServices();
-
 builder.Services.AddControllers();
-
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-    
 builder.Services.AddDbContext<dbContextApi>();
 
 var app = builder.Build();
 
-if (app.Environment.IsDevelopment())
+// HABILITAR SWAGGER SIEMPRE (Render es Production)
+app.UseSwagger();
+app.UseSwaggerUI(c =>
 {
-    app.UseDeveloperExceptionPage();
-    app.UseHttpsRedirection();
-}
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "API v1");
+    c.RoutePrefix = "swagger"; // ahora accesible en /swagger
+});
 
-app.UseHttpsRedirection();
+// Desactiva redireccionamiento HTTPS porque Render usa HTTP interno
+// app.UseHttpsRedirection();  // QUITADO
+
 app.UseAuthorization();
-
 app.MapControllers();
 
 app.Run();
