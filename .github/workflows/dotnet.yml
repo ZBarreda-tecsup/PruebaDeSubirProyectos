@@ -36,4 +36,5 @@ jobs:
 
     - name: Deploy to server (ejemplo de despliegue)
       run: |
-        scp -r ./published username@server:/path/to/deploy
+        scp -r ./published ubuntu@35.178.45.11:/var/www/lab14
+
